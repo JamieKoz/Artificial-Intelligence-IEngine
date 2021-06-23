@@ -1,0 +1,5 @@
+C:\Users\Jamie\Documents\Uni2021\IAI\Assignment2\IEngine\bin\Debug\net5.0\publish\IEngine.exe
+C:\Users\Jamie\Documents\Uni2021\IAI\Assignment2\IEngine\bin\Debug\net5.0\publish\IEngine.dll
+C:\Users\Jamie\Documents\Uni2021\IAI\Assignment2\IEngine\bin\Debug\net5.0\publish\IEngine.deps.json
+C:\Users\Jamie\Documents\Uni2021\IAI\Assignment2\IEngine\bin\Debug\net5.0\publish\IEngine.runtimeconfig.json
+C:\Users\Jamie\Documents\Uni2021\IAI\Assignment2\IEngine\bin\Debug\net5.0\publish\IEngine.pdb

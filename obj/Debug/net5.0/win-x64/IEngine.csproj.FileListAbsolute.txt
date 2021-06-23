@@ -1,0 +1,16 @@
+C:\Users\Jamie\Documents\Uni2021\IAI\Assignment2\IEngine\bin\Debug\net5.0\win-x64\IEngine.exe
+C:\Users\Jamie\Documents\Uni2021\IAI\Assignment2\IEngine\bin\Debug\net5.0\win-x64\IEngine.deps.json
+C:\Users\Jamie\Documents\Uni2021\IAI\Assignment2\IEngine\bin\Debug\net5.0\win-x64\IEngine.runtimeconfig.json
+C:\Users\Jamie\Documents\Uni2021\IAI\Assignment2\IEngine\bin\Debug\net5.0\win-x64\IEngine.runtimeconfig.dev.json
+C:\Users\Jamie\Documents\Uni2021\IAI\Assignment2\IEngine\bin\Debug\net5.0\win-x64\IEngine.dll
+C:\Users\Jamie\Documents\Uni2021\IAI\Assignment2\IEngine\bin\Debug\net5.0\win-x64\ref\IEngine.dll
+C:\Users\Jamie\Documents\Uni2021\IAI\Assignment2\IEngine\bin\Debug\net5.0\win-x64\IEngine.pdb
+C:\Users\Jamie\Documents\Uni2021\IAI\Assignment2\IEngine\obj\Debug\net5.0\win-x64\IEngine.csprojAssemblyReference.cache
+C:\Users\Jamie\Documents\Uni2021\IAI\Assignment2\IEngine\obj\Debug\net5.0\win-x64\IEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamie\Documents\Uni2021\IAI\Assignment2\IEngine\obj\Debug\net5.0\win-x64\IEngine.AssemblyInfoInputs.cache
+C:\Users\Jamie\Documents\Uni2021\IAI\Assignment2\IEngine\obj\Debug\net5.0\win-x64\IEngine.AssemblyInfo.cs
+C:\Users\Jamie\Documents\Uni2021\IAI\Assignment2\IEngine\obj\Debug\net5.0\win-x64\IEngine.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\Documents\Uni2021\IAI\Assignment2\IEngine\obj\Debug\net5.0\win-x64\IEngine.dll
+C:\Users\Jamie\Documents\Uni2021\IAI\Assignment2\IEngine\obj\Debug\net5.0\win-x64\ref\IEngine.dll
+C:\Users\Jamie\Documents\Uni2021\IAI\Assignment2\IEngine\obj\Debug\net5.0\win-x64\IEngine.pdb
+C:\Users\Jamie\Documents\Uni2021\IAI\Assignment2\IEngine\obj\Debug\net5.0\win-x64\IEngine.genruntimeconfig.cache
